@@ -1,0 +1,27 @@
+.titled-pane{
+    -fx-background-color:  #373C50;
+}
+.button{
+    -fx-background-color: #4f5670;
+    -fx-padding : 5;
+}
+
+.root{
+    -fx-font-family: "System 12px";
+    -fx-font-color: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+    -fx-base: white;
+}
+
+.label{
+    -fx-background-color:Black;
+    -fx-text-fill:white;
+    -fx-font-size:16;
+    -fx-border-color: Wheat;
+    -fx-border-radius: 5;
+}
+
+.pane{
+    -fx-spacing: 10;
+}
